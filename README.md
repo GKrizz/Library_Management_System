@@ -1,5 +1,5 @@
 # Library Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://www.linkedin.com/in/gobala-krishnan-5ab1a4231/)
 ---
 ## screenshots
 ### Homepage
@@ -58,6 +58,5 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+- [Contact on likedin](https://www.linkedin.com/in/gobala-krishnan-5ab1a4231/)
 "# Library_Management_System" 
