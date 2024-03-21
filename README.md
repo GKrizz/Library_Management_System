@@ -1,5 +1,6 @@
 # Library Management
-![developer](https://www.linkedin.com/in/gobala-krishnan-5ab1a4231/)
+<!-- ![developer](https://www.linkedin.com/in/gobala-krishnan-5ab1a4231/) -->
+Gobala Krishnan B
 ---
 ## screenshots
 ### Homepage
