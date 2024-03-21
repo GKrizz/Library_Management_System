@@ -58,5 +58,5 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on likedin](https://www.linkedin.com/in/gobala-krishnan-5ab1a4231/)
+- [Contact on linkedin](https://www.linkedin.com/in/gobala-krishnan-5ab1a4231/)
 "# Library_Management_System" 
